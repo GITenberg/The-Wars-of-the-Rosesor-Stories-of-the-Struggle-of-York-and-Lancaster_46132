@@ -1,0 +1,30 @@
+_repo: The-Wars-of-the-Rosesor-Stories-of-the-Struggle-of-York-and-Lancaster_46132
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46132-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Edgar, John G. (John George)
+    aliases:
+    - Edgar, J.G.
+    - Edgar, J. G. (John George)
+    - Edgar, John George
+    birthdate: 1834
+    deathdate: 1864
+    gutenberg_agent_id: '32162'
+    url: http://www.gutenberg.org/2009/agents/32162
+description: ''
+gutenberg_issued: '2014-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Wars of the Roses, 1455-1485'
+- !lcc 'DA'
+title: The Wars of the Roses; or, Stories of the Struggle of York and Lancaster
+url: http://www.gutenberg.org/ebooks/46132
